@@ -1,3 +1,2 @@
-
-echo "This is from app-v1 "
+This is from app-v1
 
